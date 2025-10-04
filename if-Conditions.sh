@@ -4,7 +4,7 @@ if [ expression ] ; then
 fi
 EOF
 
-x=500
+x=$1
 if [ "$x" -gt 100 ] ; then
  echo " $x is greater than 100"
 fi
