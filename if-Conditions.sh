@@ -7,6 +7,6 @@ EOF
 
 x=$1
 if [ "$x" -gt 100 ] ; then
- echo " 100 is Greater"
+ echo " $x is greater than 100"
 fi
 
