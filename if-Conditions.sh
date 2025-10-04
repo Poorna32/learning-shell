@@ -5,8 +5,7 @@ fi
 EOF
 
 
-x=$1
-if [ "$x" -gt 100 ] ; then
- echo " $x is greater than 100"
+if [ 50 -gt 100 ] ; then
+ echo " 50 is greater than 100"
 fi
 
