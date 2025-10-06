@@ -4,7 +4,7 @@ if [ expression ]; then
 fi
 EOF
 
-x=500
+x=2000
 if [ "$x" -gt 1000 ]; then
   echo "$x is Lesser than 1000"
 else
