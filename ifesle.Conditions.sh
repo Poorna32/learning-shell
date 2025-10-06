@@ -1,6 +1,8 @@
 <<EOF
 if [ expression ]; then
-    Echo Command
+    echo Command
+else
+    echo Command
 fi
 EOF
 
