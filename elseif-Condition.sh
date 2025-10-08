@@ -5,5 +5,5 @@ if [ -z "$x" ]; then
 elif [ "$x" -ne 100 ]; then
   echo "$x is not equal to 100"
 else
-  echo "$x is lesser than 100"
+  echo "$x is equal to 100"
 fi
