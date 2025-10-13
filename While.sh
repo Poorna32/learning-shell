@@ -1,5 +1,5 @@
 i=0
-while [ $i -eq 10 ]; do
+while [ $i -lt 20 ]; do
   echo i - $i
   i=$(( $i+1 ))
 done
