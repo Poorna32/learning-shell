@@ -1,3 +1,3 @@
-for fruit in apple banana orange; do
-    echo fruit - $fruit
+for Batsmen in Sachin Sehwag Gambhir Kohli Raina Yuvraj Dhoni ; do
+    echo Batsmen - $Batsmen
 done
